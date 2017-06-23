@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Barry Davis"
+date: "June 22, 2017"
+output: html_document
+---
+
+Springboard - Foundations of Data Science
+
+This is a data wrangling exercise for deailng with missing values.
